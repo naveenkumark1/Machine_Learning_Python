@@ -2,4 +2,4 @@
 #### * Concepts 
 #### * Case studies 
 #### * Codes
-#### * Other learning resources
+#### * Other learning resources.
